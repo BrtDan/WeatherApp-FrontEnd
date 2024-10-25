@@ -3,7 +3,7 @@ import Home from "./pages/home";
 import Footer from "./components/footer";
 import WeatherDetails from "./pages/weatherDetails";
 import Info from "./pages/info";
-import "./app.css";
+import "./App.css";
 
 const App = () => {
   return (

@@ -1,0 +1,10 @@
+
+body {
+  background: linear-gradient(to right, #93c5fd, #a78bfa);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: linear-gradient(to right, #4b5563, #1f2937);
+  }
+}
